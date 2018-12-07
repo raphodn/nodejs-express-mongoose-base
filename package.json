@@ -6,7 +6,7 @@
   "scripts": {
     "start": "nodemon ./bin/www",
     "lint": "eslint .",
-    "test": "mocha --timeout 5000 --recursive"
+    "test": "mocha --timeout 5000 --recursive --exit"
   },
   "repository": {
     "type": "git",

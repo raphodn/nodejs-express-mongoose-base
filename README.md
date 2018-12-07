@@ -64,7 +64,7 @@ node db/seed.js
 ```
 
 
-### Run Test
+### Run Tests
 
 ```
 npm run test
